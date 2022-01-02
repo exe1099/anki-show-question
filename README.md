@@ -3,3 +3,5 @@ Add-on for anki that adds the ability to show the question again without submitt
 
 The functionality of the easy-button is changed to show the question again.
 Also, a context-menu entry in the reviewer is added.
+
+[GitHub Repository][https://github.com/exe1099/anki-show-question]
