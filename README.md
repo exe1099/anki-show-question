@@ -6,4 +6,4 @@ The functionality of the easy-button is changed to show the question again. Also
 
 Only tested with version 2.1.49.
 
-[Anki Add-on][https://ankiweb.net/shared/info/1566569834]
+[Anki Add-on](https://ankiweb.net/shared/info/1566569834)
